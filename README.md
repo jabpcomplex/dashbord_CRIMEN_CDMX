@@ -1,6 +1,6 @@
 # 🚨 Visualizador Interactivo de Delitos México 2024 
 
-[![License: GPL.v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+[![License: GPL.v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)]
 [![Shiny](https://img.shields.io/badge/Shiny-RStudio-blue.svg)](https://shiny.rstudio.com/)
 ![GitHub stars](https://img.shields.io/github/stars/jabpcomplex/dashbord_CRIMEN_CDMX?style=social)
 
