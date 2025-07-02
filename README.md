@@ -55,6 +55,7 @@ pacman::p_load(shiny, leaflet, ggplot2, dplyr, lubridate)
 # 2. Corre la app localmente
 ```bash
 shiny::runApp()
+ ```
 
 💻 ¡Invitación a Colaborar!
 Este proyecto vive gracias a la comunidad. Tus contribuciones técnicas pueden marcar la diferencia:
