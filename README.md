@@ -1,4 +1,4 @@
-# 🚨 Visualizador Interactivo de Delitos México 2024 
+# 🚨 Plataforma interactiva de Delitos en la Ciudad de México ocurridos en 2024 
 
 [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 [![Shiny](https://img.shields.io/badge/Shiny-RStudio-blue.svg)](https://shiny.rstudio.com/)
@@ -15,11 +15,11 @@
 
 ## 🛠️ Tecnologías Clave
 
-R Shiny      # Backend interactivo
-Leaflet.js   # Mapas dinámicos
-D3.js        # Visualizaciones avanzadas
-Flexdashboard# Diseño responsive
-Tidyverse    # Procesamiento de datos
+- R Shiny      # Backend interactivo
+- Leaflet.js   # Mapas dinámicos
+- D3.js        # Visualizaciones avanzadas
+- Flexdashboard # Diseño responsive
+- Tidyverse    # Procesamiento de datos
 
 
 📊 Funcionalidades Principales
@@ -40,8 +40,8 @@ Para principiantes:
 
 ```bash
 # Pasos básicos:
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
+git clone https://github.com/tu_usuario/dashbord_CRIMEN_CDMX.git
+cd dashbord_CRIMEN_CDMX.git
 ````
 
 Para desarrolladores:
@@ -66,15 +66,14 @@ Versión inicial con mapas interactivos
 Autenticación para gestores públicos
 
 📜 Licencia
-Este proyecto está bajo licencia GNU General Public License v2.0:
 
-
-*** Este programa es software libre; puede redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU publicada por la Free Software Foundation; 
+|Este proyecto está bajo licencia GNU General Public License v2.0:|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Este programa es software libre; puede redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU publicada por la Free Software Foundation; 
 ya sea la versión 2 de la Licencia o cualquier versión posterior. Este programa se distribuye con la esperanza de que sea útil, pero SIN GARANTÍA ALGUNA; ni siquiera la 
-garantía implícita de COMERCIABILIDAD o IDONEIDAD PARA UN PROPÓSITO PARTICULAR. Consulte la Licencia Pública General de GNU para obtener más detalles.***
+garantía implícita de COMERCIABILIDAD o IDONEIDAD PARA UN PROPÓSITO PARTICULAR. Consulte la Licencia Pública General de GNU para obtener más detalles.|
 
 📌 Leer licencia completa
 
 📬 Contacto
 📧 julioacustico10@gmail.com
-🌐 jabpcomplex.github.io
