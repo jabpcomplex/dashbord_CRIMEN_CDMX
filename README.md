@@ -76,6 +76,5 @@ garantía implícita de COMERCIABILIDAD o IDONEIDAD PARA UN PROPÓSITO PARTICULA
 📌 Leer licencia completa
 
 📬 Contacto
-Julio Bautista
-📧 julioabautista10@gmail.com
+📧 julioacustico10@gmail.com
 🌐 jabpcomplex.github.io
