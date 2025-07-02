@@ -1,4 +1,4 @@
-# 🚨 Plataforma interactiva para Georeferenciar Delitos ocurridos en la Ciudad de México para el año 2024 
+# 🚨 Plataforma interactiva para Geolocalizar Delitos ocurridos en la Ciudad de México en el 2024
 
 [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 [![Shiny](https://img.shields.io/badge/Shiny-RStudio-blue.svg)](https://shiny.rstudio.com/)
