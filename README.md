@@ -41,7 +41,7 @@ Para principiantes:
 ```bash
 # Pasos básicos:
 git clone https://github.com/tu_usuario/dashbord_CRIMEN_CDMX.git
-cd dashbord_CRIMEN_CDMX.git
+cd dashbord_CRIMEN_CDMX
 ````
 
 Para desarrolladores:
@@ -67,12 +67,7 @@ Autenticación para gestores públicos
 
 📜 Licencia
 
-|Este proyecto está bajo licencia GNU General Public License v2.0:|
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Este programa es software libre; puede redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU publicada por la Free Software Foundation; 
-ya sea la versión 2 de la Licencia o cualquier versión posterior. Este programa se distribuye con la esperanza de que sea útil, pero SIN GARANTÍA ALGUNA; ni siquiera la 
-garantía implícita de COMERCIABILIDAD o IDONEIDAD PARA UN PROPÓSITO PARTICULAR. Consulte la Licencia Pública General de GNU para obtener más detalles.|
-
+Este proyecto está bajo licencia GNU General Public License v2.0
 📌 Leer licencia completa
 
 📬 Contacto
