@@ -52,26 +52,30 @@ cd tu_repositorio
 ````
 
 Para desarrolladores:
-r
+
 # 1. Instala dependencias
+```bash
 if (!require("pacman")) install.packages("pacman")
 pacman::p_load(shiny, leaflet, ggplot2, dplyr, lubridate)
+```
 
 # 2. Corre la app localmente
+```bash
 shiny::runApp()
+```
 📈 Roadmap (¡Colabora!)
 Versión inicial con mapas interactivos
 
-Integrar API del SESNSP (Issues #12)
+- Integrar API del SESNSP (Issues #12)
 
-Módulo de predicción (SARIMA)
+- Módulo de predicción (SARIMA)
 
 Autenticación para gestores públicos
 
 📜 Licencia
 Este proyecto está bajo licencia GNU General Public License v2.0:
 
-text
+```bash
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation; either version 2 of the License, or
@@ -81,6 +85,7 @@ This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
+```
 📌 Leer licencia completa
 
 🤝 Código de Conducta
