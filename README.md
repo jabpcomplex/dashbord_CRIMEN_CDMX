@@ -2,13 +2,13 @@
 
 [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 [![Shiny](https://img.shields.io/badge/Shiny-RStudio-blue.svg)](https://shiny.rstudio.com/)
-![GitHub stars](https://img.shields.io/github/stars/tu_usuario/tu_repositorio?style=social)
+![GitHub stars](https://img.shields.io/github/stars/jabpcomplex/dashbord_CRIMEN_CDMX?style=social)
 
 **Plataforma interactiva** para explorar los datos públicos de delitos de la Fiscalía General de Justicia (2024), desarrollada con **R Shiny, CSS3 y JavaScript**.
 
 👉 **URL de la App**: [Enlace al deploy] 
 
-## 🌟 ¿Por qué este proyecto?
+## 🌟 ¿Cual es la importancia del software libre?
 | Democratización del Conocimiento | Soberanía Tecnológica | Impacto Social |
 |---------------------------------|-----------------------|----------------|
 | Transforma datos crudos en información accesible para ciudadanos, periodistas y académicos | 100% desarrollado con herramientas open-source (R, JavaScript) | Facilita la identificación de patrones para políticas públicas basadas en evidencia |
@@ -76,20 +76,9 @@ Autenticación para gestores públicos
 Este proyecto está bajo licencia GNU General Public License v2.0:
 
 ```bash
-This program is free software; you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation; either version 2 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
+Este programa es software libre; puede redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU publicada por la Free Software Foundation; ya sea la versión 2 de la Licencia o cualquier versión posterior. Este programa se distribuye con la esperanza de que sea útil, pero SIN GARANTÍA ALGUNA; ni siquiera la garantía implícita de COMERCIABILIDAD o IDONEIDAD PARA UN PROPÓSITO PARTICULAR. Consulte la Licencia Pública General de GNU para obtener más detalles.
 ```
 📌 Leer licencia completa
-
-🤝 Código de Conducta
-Este proyecto sigue el Código de Conducta Contributor Covenant. Al participar, aceptas cumplir sus términos.
 
 📬 Contacto
 Julio Bautista
