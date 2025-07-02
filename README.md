@@ -4,7 +4,7 @@
 [![Shiny](https://img.shields.io/badge/Shiny-RStudio-blue.svg)](https://shiny.rstudio.com/)
 ![GitHub stars](https://img.shields.io/github/stars/jabpcomplex/dashbord_CRIMEN_CDMX?style=social)
 
-**Plataforma interactiva** para explorar los datos públicos de delitos de la Fiscalía General de Justicia (2024), desarrollada con **R Shiny, CSS3 y JavaScript**.
+**Plataforma interactiva** para explorar los datos públicos de delitos de la Fiscalía General de Justicia (2024), desarrollada con **R Shiny, CSS y JavaScript**.
 
 👉 **URL de la App**: [Enlace al deploy] 
 
@@ -27,7 +27,7 @@ Tidyverse    # Procesamiento de datos
 
 Tipo de delito
 
-Alcaldía/Colonia
+Alcaldía
 
 Fechas
 
@@ -75,7 +75,7 @@ Autenticación para gestores públicos
 📜 Licencia
 Este proyecto está bajo licencia GNU General Public License v2.0:
 
-```bash
+```text
 Este programa es software libre; puede redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU publicada por la Free Software Foundation; ya sea la versión 2 de la Licencia o cualquier versión posterior. Este programa se distribuye con la esperanza de que sea útil, pero SIN GARANTÍA ALGUNA; ni siquiera la garantía implícita de COMERCIABILIDAD o IDONEIDAD PARA UN PROPÓSITO PARTICULAR. Consulte la Licencia Pública General de GNU para obtener más detalles.
 ```
 📌 Leer licencia completa
