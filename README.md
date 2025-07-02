@@ -4,6 +4,10 @@
 [![Shiny](https://img.shields.io/badge/Shiny-RStudio-blue.svg)](https://shiny.rstudio.com/)
 ![GitHub stars](https://img.shields.io/github/stars/jabpcomplex/dashbord_CRIMEN_CDMX?style=social)
 
+<div align="center" style="background-color: white; padding: 10px; border-radius: 10px; display: flex;">
+ <img src="https://raw.githubusercontent.com/jabpcomplex/dashbord_CRIMEN_CDMX/refs/heads/main/img/TABLERO_FGJ.png" alt="img_tablero"  height= "980" weigth = '650'>
+</div>
+
 **Plataforma interactiva** para explorar los datos públicos de delitos de la Fiscalía General de Justicia (2024), desarrollada con **R Shiny, CSS y JavaScript**.
 
 👉 **URL de la App**: [Enlace al deploy] 
