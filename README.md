@@ -25,18 +25,11 @@ Tidyverse    # Procesamiento de datos
 📊 Funcionalidades Principales
 ✅ Filtros interactivos por:
 
-Tipo de delito
+- Tipo de delito
+- Alcaldía
+- Fechas
 
-Alcaldía
-
-Fechas
-
-✅ Heatmaps geoespaciales
-
-✅ Series de tiempo personalizables
-
-✅ Exportación de gráficos en PNG/CSV
-
+✅ Series de tiempo 
 ✅ Panel administrativo para gestores públicos
 
 🚀 Cómo Contribuir
@@ -75,10 +68,10 @@ Autenticación para gestores públicos
 📜 Licencia
 Este proyecto está bajo licencia GNU General Public License v2.0:
 
-text
-Este programa es software libre; puede redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU publicada por la Free Software Foundation; 
+
+*** Este programa es software libre; puede redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU publicada por la Free Software Foundation; 
 ya sea la versión 2 de la Licencia o cualquier versión posterior. Este programa se distribuye con la esperanza de que sea útil, pero SIN GARANTÍA ALGUNA; ni siquiera la 
-garantía implícita de COMERCIABILIDAD o IDONEIDAD PARA UN PROPÓSITO PARTICULAR. Consulte la Licencia Pública General de GNU para obtener más detalles.
+garantía implícita de COMERCIABILIDAD o IDONEIDAD PARA UN PROPÓSITO PARTICULAR. Consulte la Licencia Pública General de GNU para obtener más detalles.***
 
 📌 Leer licencia completa
 
