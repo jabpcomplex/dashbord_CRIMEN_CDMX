@@ -13,7 +13,7 @@
 |---------------------------------|-----------------------|----------------|
 | Transforma datos crudos en información accesible para ciudadanos, periodistas y académicos | 100% desarrollado con herramientas de software libre (R, JavaScript) | Facilita la identificación de patrones para políticas públicas basadas en evidencia |
 
-## 🛠️ Tecnologías Clave
+🛠️ ## Tecnologías Clave
 
 - R Shiny      # Backend interactivo
 - Leaflet.js   # Mapas dinámicos
@@ -22,7 +22,7 @@
 - Tidyverse    # Procesamiento de datos
 
 
-📊 Funcionalidades Principales
+📊 ## Funcionalidades Principales
 ✅ Filtros interactivos por:
 
 - Tipo de delito
@@ -32,7 +32,7 @@
 ✅ Series de tiempo 
 ✅ Panel administrativo para gestores públicos
 
-🚀 Cómo Contribuir
+🚀 ## Cómo Contribuir
 Para principiantes:
 ⭐ Dale estrella al proyecto (arriba derecha)
 
@@ -67,15 +67,15 @@ Este proyecto vive gracias a la comunidad. Tus contribuciones técnicas pueden m
 🧠 Modelos predictivos: Desarrolla módulos de ML para análisis de tendencias
 🐛 Reporte de bugs: ¿Encontraste un error? Abre un issue
 
-# "La soberanía tecnológica se construye colaborando" - Cada PR (Pull Request) será revisado con atención y crédito completo a los colaboradores.
-# ¡Tu código puede impactar cómo México entiende la seguridad!
+### "La soberanía tecnológica se construye colaborando" - Cada PR (Pull Request) será revisado con atención y crédito completo a los colaboradores.
+### ¡Tu código puede impactar cómo México entiende la seguridad!
 
 Autenticación para gestores públicos
 
-📜 Licencia
+📜 ## Licencia
 
 Este proyecto está bajo licencia GNU General Public License v2.0
 📌 Leer licencia completa
 
-📬 Contacto
+📬 ## Contacto
 📧 julioacustico10@gmail.com
