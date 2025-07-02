@@ -1,4 +1,4 @@
-# 🚨 Plataforma interactiva de Delitos en la Ciudad de México ocurridos en 2024 
+# 🚨 Plataforma interactiva para Georeferenciar Delitos ocurridos en la Ciudad de México para el año 2024 
 
 [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 [![Shiny](https://img.shields.io/badge/Shiny-RStudio-blue.svg)](https://shiny.rstudio.com/)
@@ -55,13 +55,19 @@ pacman::p_load(shiny, leaflet, ggplot2, dplyr, lubridate)
 # 2. Corre la app localmente
 ```bash
 shiny::runApp()
-```
-📈 Roadmap (¡Colabora!)
-Versión inicial con mapas interactivos
 
-- Integrar API del SESNSP (Issues #12)
+💻 ¡Invitación a Colaborar!
+Este proyecto vive gracias a la comunidad. Tus contribuciones técnicas pueden marcar la diferencia:
 
-- Módulo de predicción (SARIMA)
+🛠️ Mejoras de código: Optimiza funciones existentes o implementa nuevas features usando [R, JavaScript, CSS]
+
+📊 Nuevas visualizaciones: Añade gráficos interactivos con D3.js o Plotly
+🗺️ Capas geoespaciales: Integra polígonos de colonias o transporte público
+🧠 Modelos predictivos: Desarrolla módulos de ML para análisis de tendencias
+🐛 Reporte de bugs: ¿Encontraste un error? Abre un issue
+
+# "La soberanía tecnológica se construye colaborando" - Cada PR (Pull Request) será revisado con atención y crédito completo a los colaboradores.
+# ¡Tu código puede impactar cómo México entiende la seguridad!
 
 Autenticación para gestores públicos
 
