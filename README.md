@@ -11,7 +11,7 @@
 ## 🌟 ¿Cual es la importancia del software libre?
 | Democratización del Conocimiento | Soberanía Tecnológica | Impacto Social |
 |---------------------------------|-----------------------|----------------|
-| Transforma datos crudos en información accesible para ciudadanos, periodistas y académicos | 100% desarrollado con herramientas open-source (R, JavaScript) | Facilita la identificación de patrones para políticas públicas basadas en evidencia |
+| Transforma datos crudos en información accesible para ciudadanos, periodistas y académicos | 100% desarrollado con herramientas de software libre (R, JavaScript) | Facilita la identificación de patrones para políticas públicas basadas en evidencia |
 
 ## 🛠️ Tecnologías Clave
 
@@ -75,9 +75,11 @@ Autenticación para gestores públicos
 📜 Licencia
 Este proyecto está bajo licencia GNU General Public License v2.0:
 
-```text
-Este programa es software libre; puede redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU publicada por la Free Software Foundation; ya sea la versión 2 de la Licencia o cualquier versión posterior. Este programa se distribuye con la esperanza de que sea útil, pero SIN GARANTÍA ALGUNA; ni siquiera la garantía implícita de COMERCIABILIDAD o IDONEIDAD PARA UN PROPÓSITO PARTICULAR. Consulte la Licencia Pública General de GNU para obtener más detalles.
-```
+text
+Este programa es software libre; puede redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU publicada por la Free Software Foundation; 
+ya sea la versión 2 de la Licencia o cualquier versión posterior. Este programa se distribuye con la esperanza de que sea útil, pero SIN GARANTÍA ALGUNA; ni siquiera la 
+garantía implícita de COMERCIABILIDAD o IDONEIDAD PARA UN PROPÓSITO PARTICULAR. Consulte la Licencia Pública General de GNU para obtener más detalles.
+
 📌 Leer licencia completa
 
 📬 Contacto
