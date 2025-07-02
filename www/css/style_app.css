@@ -1,0 +1,49 @@
+body {
+    background-color: white;
+}
+
+.title-panel-custom {
+   background-color: white;
+   font-family: 'Roboto', sans-serif;
+   font-weight: 700;  /* Esto es para bold */
+   color: #9F2241 !important;
+   font-size: 24px;   /* Ajusta según necesites */
+   padding: 3px 0;   /* Espaciado */
+}
+
+
+.btn-reset {
+  background-color: #9F2241;
+  color: white;
+  font-weight: bold;
+  border: none;
+  padding: 8px 15px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+.btn-reset:hover {
+  background-color: #7f1c36;
+  color: white;
+}
+
+.small-table .dataTables_wrapper {
+    font-size: 12px;
+    height: 300px;
+    overflow-y: auto;
+}
+      
+.titulos_div {
+    background-color: #9F2241;
+    color: white;
+    border-radius: 8px;
+    padding: 5px 10px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+
+#mapa {
+  height: 750px !important; /* Altura de mapa*/
+  width: 100% !important; /* O un valor fijo como 800px */
+  padding: 8px 15px;
+}
