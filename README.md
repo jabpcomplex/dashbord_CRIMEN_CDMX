@@ -26,7 +26,7 @@
 - Tidyverse    # Procesamiento de datos
 
 
-📊 ## Funcionalidades Principales
+## 📊 Funcionalidades Principales
 ✅ Filtros interactivos por:
 
 - Tipo de delito
@@ -36,7 +36,7 @@
 ✅ Series de tiempo 
 ✅ Panel administrativo para gestores públicos
 
-🚀 ## Cómo Contribuir
+## 🚀 Cómo Contribuir
 Para principiantes:
 ⭐ Dale estrella al proyecto (arriba derecha)
 
@@ -61,7 +61,7 @@ pacman::p_load(shiny, shinyjs, leaflet, ggplot2, dplyr, lubridate,sf)
 shiny::runApp()
  ```
 
-#💻 ¡Invitación a Colaborar!
+## 💻 ¡Invitación a Colaborar!
 
 Este proyecto vive gracias a la comunidad. Tus contribuciones técnicas pueden marcar la diferencia:
 
@@ -77,10 +77,10 @@ Este proyecto vive gracias a la comunidad. Tus contribuciones técnicas pueden m
 
 
 
-##📜 Licencia
+## 📜 Licencia
 
 Este proyecto está bajo licencia GNU General Public License v2.0
 📌 Leer licencia completa
 
-##📬 Contacto
+## 📬 Contacto
 📧 julioacustico10@gmail.com
