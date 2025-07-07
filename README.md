@@ -8,16 +8,16 @@
  <img src="https://raw.githubusercontent.com/jabpcomplex/dashbord_CRIMEN_CDMX/refs/heads/main/img/TABLERO_FGJ.png" alt="img_tablero"  height= "auto" weigth = "650">
 </div>
 
-**Plataforma interactiva** para explorar los datos públicos de delitos de la Fiscalía General de Justicia (2024), desarrollada con **R Shiny, CSS y JavaScript**.
+**Plataforma interactiva** para explorar los datos públicos de delitos de la Fiscalía General de Justicia (2024), desarrollada con **R Shiny, CSS y JavaScript (embebido)**.
 
 👉 **URL de la App**: [Enlace al deploy] 
 
 ## 🌟 ¿Cual es la importancia del software libre?
 | Democratización del Conocimiento | Soberanía Tecnológica | Impacto Social |
 |---------------------------------|-----------------------|----------------|
-| Transforma datos crudos en información accesible para ciudadanos, periodistas y académicos | 100% desarrollado con herramientas de software libre (R, JavaScript) | Facilita la identificación de patrones para políticas públicas basadas en evidencia |
+| Transforma datos crudos en información accesible para ciudadanos, periodistas y académicos | 100% desarrollado con herramientas de software libre | Facilita la identificación de patrones para políticas públicas basadas en evidencia |
 
-🛠️ ## Tecnologías Clave
+## 🛠️  Tecnologías Clave
 
 - R Shiny      # Backend interactivo
 - Leaflet.js   # Mapas dinámicos
@@ -50,18 +50,18 @@ cd dashbord_CRIMEN_CDMX
 
 Para desarrolladores:
 
-# 1. Instala dependencias
+## 1. Instala dependencias
 ```bash
 if (!require("pacman")) install.packages("pacman")
-pacman::p_load(shiny, leaflet, ggplot2, dplyr, lubridate)
+pacman::p_load(shiny, shinyjs, leaflet, ggplot2, dplyr, lubridate,sf)
 ```
 
-# 2. Corre la app localmente
+## 2. Corre la app localmente
 ```bash
 shiny::runApp()
  ```
 
-💻 ## ¡Invitación a Colaborar!
+#💻 ¡Invitación a Colaborar!
 
 Este proyecto vive gracias a la comunidad. Tus contribuciones técnicas pueden marcar la diferencia:
 
@@ -75,12 +75,12 @@ Este proyecto vive gracias a la comunidad. Tus contribuciones técnicas pueden m
 ### "La soberanía tecnológica se construye colaborando" - Cada PR (Pull Request) será revisado con atención y crédito completo a los colaboradores.
 ### ¡Tu código puede impactar cómo México entiende la seguridad!
 
-Autenticación para gestores públicos
 
-📜 ## Licencia
+
+##📜 Licencia
 
 Este proyecto está bajo licencia GNU General Public License v2.0
 📌 Leer licencia completa
 
-📬 ## Contacto
+##📬 Contacto
 📧 julioacustico10@gmail.com
